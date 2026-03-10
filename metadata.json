@@ -1,0 +1,5 @@
+{
+  "name": "CareerAI",
+  "description": "Your friendly AI career coach. Get short, knowledgeable advice on resumes, interviews, and growth.",
+  "requestFramePermissions": ["microphone"]
+}
